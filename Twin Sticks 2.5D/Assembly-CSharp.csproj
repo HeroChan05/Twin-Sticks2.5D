@@ -51,6 +51,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Game\FollowPlayer1.cs" />
+     <Compile Include="Assets\Game\GameManager.cs" />
+     <Compile Include="Assets\Game\PlayerPrefsManager.cs" />
+     <Compile Include="Assets\Game\ReplaySystem1.cs" />
      <Compile Include="Assets\Player\Player.cs" />
      <None Include="Assets\Standard Assets\Fonts\OpenSans\License!.txt" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
